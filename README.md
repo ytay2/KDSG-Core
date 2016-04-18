@@ -1,0 +1,2 @@
+# SGKD-Core
+Side Project
